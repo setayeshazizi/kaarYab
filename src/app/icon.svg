@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <!-- Background with Gradient matching your Hero theme -->
+  <defs>
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded Box Base -->
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#primaryGrad)" />
+
+  <!-- Briefcase Body (Opportunities & Jobs) -->
+  <rect x="16" y="26" width="32" height="22" rx="4" fill="#FFFFFF" opacity="0.95" />
+  
+  <!-- Briefcase Handle -->
+  <path d="M24 26V21C24 19.3431 25.3431 18 27 18H37C38.6569 18 40 19.3431 40 21V26" 
+        stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" fill="none" />
+
+  <!-- Graduation Cap Top (Education & Scholarships) -->
+  <polygon points="32,12 48,20 32,28 16,20" fill="url(#accentGrad)" />
+
+  <!-- Lock/Latch Accent -->
+  <rect x="28" y="32" width="8" height="5" rx="1" fill="url(#primaryGrad)" />
+</svg>
