@@ -133,7 +133,7 @@ open http://localhost:3000
 ### Saved
 ![saved](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-saved-2026-08-03-16_00_03.png)
 ### Dashboard
-![Dashboard]https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-dashboard-2026-08-03-16_01_42.png)
+![Dashboard](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-dashboard-2026-08-03-16_01_42.png)
 ### Add
 ![Checkout1](https://github.com/setayeshazizi/product-store-app/blob/main/screenshots/screencapture-localhost-5173-checkout-2026-04-24-19_54_56.png)
 ### About
