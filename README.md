@@ -144,3 +144,16 @@ open http://localhost:3000
 ![Details](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-opportunities-4-2026-08-03-16_03_55.png)
 
 ---
+
+
+## Live Demo
+
+ https://product-store-app-tau.vercel.app/
+
+---
+
+## Demo Video
+
+ *https://youtu.be/ago4MJG99HM?feature=shared*
+
+---
