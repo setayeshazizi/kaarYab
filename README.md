@@ -108,7 +108,7 @@ KaarYab solves this problem by creating a clean and easy-to-use platform where p
 
 ```
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/kaar-yab.git
+git clone (https://github.com/setayeshazizi/kaarYab.git)
 
 # 2. Navigate to project folder
 cd kaar-yab
