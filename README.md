@@ -106,7 +106,7 @@ KaarYab solves this problem by creating a clean and easy-to-use platform where p
 
 ##  How to Run Locally
 
-```bash
+```
 # 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/kaar-yab.git
 
@@ -120,7 +120,8 @@ npm install
 npm run dev
 
 # 5. Open in browser
-open http://localhost:3000```
+open http://localhost:3000
+```
 
 ---
 
