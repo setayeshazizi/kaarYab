@@ -161,19 +161,16 @@ open http://localhost:3000
 
 | # | Criteria | Weight | Status | Evidence |
 |---|----------|--------|--------|----------|
-| 1 | UI/UX Design — Clean layout, good colors, responsive, professional look | 20% | ✅ Exceeded | Glass morphism navbar, gradient headings, custom scrollbar, consistent spacing, light/dark themes, responsive on all devices |
-| 2 | Functionality — Search, filter, dynamic pages, save feature, forms, CRUD | 30% | ✅ Exceeded | Advanced search with debounce, multi-filter system, full CRUD operations, save/unsave toggle, form validation with error messages, share functionality |
-| 3 | Code Quality — Clean components, folder structure, reusable, state management | 20% | ✅ Exceeded | Modular component architecture, reusable Button/EmptyState/Card components, Zustand global store with persist middleware, TypeScript throughout |
-| 4 | Next.js Skills — App Router, dynamic routes, API routes/mock API, metadata, deployment | 15% | ✅ Exceeded | Next.js 16 App Router, dynamic [id] routes, SEO metadata with Open Graph, Vercel deployment ready |
-| 5 | Final Presentation — Clear explanation, working demo, confidence, README, GitHub | 15% | ✅ Exceeded | Comprehensive README with badges, tables, screenshots, setup instructions, live demo link, and 19 documented bonus features |
+| 1 | UI/UX Design — Clean layout, good colors, responsive, professional look | 20% |  Exceeded | Glass morphism navbar, gradient headings, custom scrollbar, consistent spacing, light/dark themes, responsive on all devices |
+| 2 | Functionality — Search, filter, dynamic pages, save feature, forms, CRUD | 30% |  Exceeded | Advanced search with debounce, multi-filter system, full CRUD operations, save/unsave toggle, form validation with error messages, share functionality |
+| 3 | Code Quality — Clean components, folder structure, reusable, state management | 20% |  Exceeded | Modular component architecture, reusable Button/EmptyState/Card components, Zustand global store with persist middleware, TypeScript throughout |
+| 4 | Next.js Skills — App Router, dynamic routes, API routes/mock API, metadata, deployment | 15% |  Exceeded | Next.js 16 App Router, dynamic [id] routes, SEO metadata with Open Graph, Vercel deployment ready |
+| 5 | Final Presentation — Clear explanation, working demo, confidence, README, GitHub | 15% |  Exceeded | Comprehensive README with badges, tables, screenshots, setup instructions, live demo link, and 19 documented bonus features |
 
 ---
 
 
-Student: [Setayesh Azizi]
-
-Course: [Next.Js]
-
-Instructor: [Ehsan Ehrari]
-
-Date: [2026/8/3]
+Student: Setayesh Azizi
+Course: Next.Js
+Instructor: Ehsan Ehrari
+Date: 2026/8/3
