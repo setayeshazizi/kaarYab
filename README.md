@@ -141,6 +141,6 @@ open http://localhost:3000
 ### Contact
 ![Contact](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-contact-2026-08-03-16_03_09.png)
 ### Details
-![Checkout4](https://github.com/setayeshazizi/product-store-app/blob/main/screenshots/screencapture-localhost-5173-checkout-2026-04-24-21_35_39%20(1).png)
+![Details](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-opportunities-4-2026-08-03-16_03_55.png)
 
 ---
