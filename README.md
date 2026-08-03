@@ -108,18 +108,15 @@ KaarYab solves this problem by creating a clean and easy-to-use platform where p
 
 ```
 # 1. Clone the repository
-git clone (https://github.com/setayeshazizi/kaarYab.git)
+git clone https://github.com/setayeshazizi/kaarYab.git
 
-# 2. Navigate to project folder
-cd kaar-yab
-
-# 3. Install dependencies
+# 2. Install dependencies
 npm install
 
-# 4. Run development server
+# 3. Run development server
 npm run dev
 
-# 5. Open in browser
+# 4. Open in browser
 open http://localhost:3000
 ```
 
