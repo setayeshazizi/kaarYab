@@ -148,7 +148,7 @@ open http://localhost:3000
 
 ## Live Demo
 
- https://product-store-app-tau.vercel.app/
+(https://kaar-yab.vercel.app/)
 
 ---
 
