@@ -44,7 +44,7 @@ KaarYab solves this problem by creating a clean and easy-to-use platform where p
 
 ##  Features
 
-### ✅ Core Features (Required - All Implemented)
+###  Core Features (Required - All Implemented)
 
 | # | Feature | Description |
 |---|---------|-------------|
@@ -59,11 +59,11 @@ KaarYab solves this problem by creating a clean and easy-to-use platform where p
 | 9 | Dark Mode | Complete light/dark theme toggle with smooth transitions, persisted in localStorage |
 | 10 | Professional UI | Clean navbar, footer, cards, buttons, forms, modals, badges, empty states, loading states, and error states |
 
-### 🚀 Bonus Features (Beyond Requirements)
+### Bonus Features (Beyond Requirements)
 
 | # | Bonus Feature | Description |
 |---|---------------|-------------|
-| 1 | ✨ Framer Motion Animations | Smooth page transitions, card hover effects, spring animations on navbar indicator, mobile menu with AnimatePresence, staggered list animations |
+| 1 | Framer Motion Animations | Smooth page transitions, card hover effects, spring animations on navbar indicator, mobile menu with AnimatePresence, staggered list animations |
 | 2 |  Recharts Pie Chart | Interactive donut chart in Dashboard showing category distribution with custom tooltips and legends |
 | 3 |  Canvas Confetti | Celebratory confetti explosion when users successfully add a new opportunity |
 | 4 |  Sonner Toast Notifications | Beautiful, customizable toast messages for save, delete, edit, and error actions |
@@ -121,3 +121,9 @@ npm run dev
 
 # 5. Open in browser
 open http://localhost:3000
+
+---
+
+## Screenshots
+
+
