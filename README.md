@@ -127,7 +127,7 @@ open http://localhost:3000
 
 ## Screenshots
 ### Home
-![home page](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-2026-08-03-15_50_42%20(1).png)
+![home page](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/home_2026-08-03_17-18-35.jpg)
 ### Opportunities
 ![opportunities](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-opportunities-2026-08-03-15_59_10.png)
 ### Saved
