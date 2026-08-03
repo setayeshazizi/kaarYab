@@ -148,13 +148,13 @@ open http://localhost:3000
 
 ## Live Demo
 
-(https://kaar-yab.vercel.app/)
+https://kaar-yab.vercel.app/
 
 ---
 
 ## Demo Video
 
- *https://youtu.be/ago4MJG99HM?feature=shared*
+ https://youtu.be/ago4MJG99HM?feature=shared
 
 ---
 ##  Grading Rubric Coverage
@@ -171,6 +171,9 @@ open http://localhost:3000
 
 
 Student: Setayesh Azizi
+
 Course: Next.Js
+
 Instructor: Ehsan Ehrari
+
 Date: 2026/8/3
