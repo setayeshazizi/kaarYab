@@ -144,7 +144,9 @@ open http://localhost:3000
 ![Details](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-opportunities-4-2026-08-03-16_03_55.png)
 
 ## Mobile View
-
+![mobile view](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/mob_2026-08-03_18-06-28.jpg)
+![mobile view](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/mobi_2026-08-03_18-06-43.jpg)
+![mobile view](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/mobile_2026-08-03_18-06-51.jpg)
 
 ---
 
