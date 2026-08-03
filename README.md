@@ -137,7 +137,7 @@ open http://localhost:3000
 ### Add
 ![Add](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-add-opportunity-2026-08-03-16_02_04.png)
 ### About
-![Checkout2](https://github.com/setayeshazizi/product-store-app/blob/main/screenshots/screencapture-localhost-5173-checkout-2026-04-24-19_55_45.png)
+![About](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-about-2026-08-03-16_02_43.png)
 ### Contact
 ![Checkout3](https://github.com/setayeshazizi/product-store-app/blob/main/screenshots/screencapture-localhost-5173-checkout-2026-04-24-19_56_10.png)
 ### Details
