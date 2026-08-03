@@ -131,7 +131,7 @@ open http://localhost:3000
 ### Opportunities
 ![opportunities](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-opportunities-2026-08-03-15_59_10.png)
 ### Saved
-![Saved](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-saved-2026-08-03-16_00_03.png)
+![Saved](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/save.PNG)
 ### Dashboard
 ![Dashboard](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-dashboard-2026-08-03-16_01_42.png)
 ### Add
@@ -142,6 +142,9 @@ open http://localhost:3000
 ![Contact](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-contact-2026-08-03-16_03_09.png)
 ### Details
 ![Details](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-opportunities-4-2026-08-03-16_03_55.png)
+
+## Mobile View
+
 
 ---
 
