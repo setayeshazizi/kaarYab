@@ -156,7 +156,7 @@ https://kaar-yab.vercel.app/
 
 ## Demo Video
 
- https://youtu.be/ago4MJG99HM?feature=shared
+https://youtu.be/q7KO1WgjsSU?is=-40tUNAqxMuvYM-6
 
 ---
 ##  Grading Rubric Coverage
