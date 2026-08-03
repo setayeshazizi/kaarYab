@@ -171,6 +171,19 @@ https://youtu.be/q7KO1WgjsSU?is=-40tUNAqxMuvYM-6
 
 ---
 
+##  Future Improvements
+
+-  User Authentication (Login/Signup)
+-  Multi-language Support (English, Dari, Pashto)
+-  Admin Approval System for submitted opportunities
+-  Email Notification for new opportunities
+-  PDF CV Builder
+-  Advanced Analytics Dashboard
+-  Deadline Reminder Notifications
+-  Comment & Review System for opportunities
+
+---
+
 
 Student: Setayesh Azizi
 
