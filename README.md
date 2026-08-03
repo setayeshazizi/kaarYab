@@ -129,7 +129,7 @@ open http://localhost:3000
 ### Home
 ![home page](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-2026-08-03-15_50_42%20(1).png)
 ### Opportunities
-![Cart](https://github.com/setayeshazizi/product-store-app/blob/main/screenshots/screencapture-localhost-5173-cart-2026-04-24-19_52_53.png)
+![opportunities](https://github.com/setayeshazizi/kaarYab/blob/main/screenshots/screencapture-localhost-3000-opportunities-2026-08-03-15_59_10.png)
 ### Saved
 ![Details](https://github.com/setayeshazizi/product-store-app/blob/main/screenshots/screencapture-localhost-5173-product-4-2026-04-24-20_41_10.png)
 ### Dashboard
