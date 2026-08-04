@@ -107,16 +107,16 @@ KaarYab solves this problem by creating a clean and easy-to-use platform where p
 ##  How to Run Locally
 
 ```
-# 1. Clone the repository
+ 1. Clone the repository
 git clone https://github.com/setayeshazizi/kaarYab.git
 
-# 2. Install dependencies
+ 2. Install dependencies
 npm install
 
-# 3. Run development server
+ 3. Run development server
 npm run dev
 
-# 4. Open in browser
+ 4. Open in browser
 open http://localhost:3000
 ```
 
